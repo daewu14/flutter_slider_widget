@@ -1,6 +1,6 @@
 # daewu
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/daewu14/flutter_slider_widget/blob/master/ss/ss1.jpeg?raw=true "Title")
 
 ## Getting Started
 
